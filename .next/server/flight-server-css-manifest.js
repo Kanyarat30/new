@@ -1,0 +1,15 @@
+self.__RSC_CSS_MANIFEST={
+  "cssImports": {
+    "C:\\Users\\s3975\\OneDrive\\เดสก์ท็อป\\new\\app\\layout.jsx": [
+      "C:\\Users\\s3975\\OneDrive\\เดสก์ท็อป\\new\\styles\\globals.css"
+    ]
+  },
+  "cssModules": {
+    "C:\\Users\\s3975\\OneDrive\\เดสก์ท็อป\\new\\app\\page": [
+      "C:\\Users\\s3975\\OneDrive\\เดสก์ท็อป\\new\\styles\\globals.css"
+    ],
+    "C:\\Users\\s3975\\OneDrive\\เดสก์ท็อป\\new\\app\\create-prompt\\page": [
+      "C:\\Users\\s3975\\OneDrive\\เดสก์ท็อป\\new\\styles\\globals.css"
+    ]
+  }
+}
